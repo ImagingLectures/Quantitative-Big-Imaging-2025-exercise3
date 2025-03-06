@@ -6,7 +6,7 @@
 - Filtering performance evaluation
 
 ## Preparation
-- Accept assignment: 
+- Accept assignment: https://classroom.github.com/a/f3B-OVIQ
 - Clone your student repository (```git clone```)
 - Run `uv sync` and check everything is correct with `uv run hello.py`
 - Start Jupyter
